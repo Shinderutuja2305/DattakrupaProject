@@ -57,7 +57,7 @@ const AboutUs=()=> {
 						<PhoneIcon  fontSize='medium' style={{border:'1px solid #878787',borderRadius:'5px'}}/>
 					</Grid>
 					<Grid item>
-                     <Typography style={{fontFamily:'Times New Roman'}}>Omkar Hande:8788613893</Typography>
+                     <Typography style={{fontFamily:'Times New Roman'}}>Omkar Hande:1234567890</Typography>
                     </Grid>
 					</Grid>
 					<Grid container direction="row" spacing="2" style={{padding:'10px'}}>
